@@ -49,19 +49,7 @@ The data contains three separate tables — `orders`, `customers`, and `products
 
 ## Total Sales Over Time — Line Chart
 
-![Total Sales Over Time — Line Chart](IMAGE URL)
-
-## Sales By Country — Bar Chart
-
-![Sales By Country — Bar Chart](IMAGE URL)
-
-## Top 5 Customers — Bar Chart
-
-![Top 5 Customers — Bar Chart](IMAGE URL)
-
-## Insert Timeline & Slicers
-
-![Insert Timeline & Slicers](IMAGE URL)
+See Portfolio - Detailed Report
 
 **Make sure to connect the slicers to all of the Pivot Tables/Charts to ensure that you filter everything when you click them.**
 
